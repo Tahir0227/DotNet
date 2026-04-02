@@ -1,0 +1,14 @@
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment1\bin\Debug\net10.0\Experiment1.exe
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment1\bin\Debug\net10.0\Experiment1.deps.json
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment1\bin\Debug\net10.0\Experiment1.runtimeconfig.json
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment1\bin\Debug\net10.0\Experiment1.dll
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment1\bin\Debug\net10.0\Experiment1.pdb
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment1\obj\Debug\net10.0\Experiment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment1\obj\Debug\net10.0\Experiment1.AssemblyInfoInputs.cache
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment1\obj\Debug\net10.0\Experiment1.AssemblyInfo.cs
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment1\obj\Debug\net10.0\Experiment1.csproj.CoreCompileInputs.cache
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment1\obj\Debug\net10.0\Experiment1.dll
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment1\obj\Debug\net10.0\refint\Experiment1.dll
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment1\obj\Debug\net10.0\Experiment1.pdb
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment1\obj\Debug\net10.0\Experiment1.genruntimeconfig.cache
+C:\Drive E\study\SEM_6\.Net\codes\Experiments\Experiment1\obj\Debug\net10.0\ref\Experiment1.dll
