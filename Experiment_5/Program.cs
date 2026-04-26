@@ -7,8 +7,6 @@ class Program
     static async Task Main(string[] args)
     {
         Console.WriteLine("=========================================");
-        Console.WriteLine("      EXP 05 - ASYNC PROGRAMMING");
-        Console.WriteLine("=========================================");
 
         Activity1_Synchronous();
         await Activity2_Asynchronous();
@@ -23,7 +21,6 @@ class Program
     static void Activity1_Synchronous()
     {
         Console.WriteLine("\n1. Synchronous Execution");
-        Console.WriteLine("---------------------------------");
 
         Task1_Sync();
         Task2_Sync();
@@ -47,7 +44,6 @@ class Program
     static async Task Activity2_Asynchronous()
     {
         Console.WriteLine("\n2. Asynchronous Execution");
-        Console.WriteLine("---------------------------------");
 
         Task t1 = Task1_Async();
         Task t2 = Task2_Async();
@@ -73,7 +69,6 @@ class Program
     static async Task Activity3_DelayVsSleep()
     {
         Console.WriteLine("\n3. Thread.Sleep vs Task.Delay");
-        Console.WriteLine("---------------------------------");
 
         Console.WriteLine("Using Thread.Sleep (Blocking)...");
         Thread.Sleep(1000);
@@ -88,7 +83,6 @@ class Program
     static async Task Activity4_TaskMethod()
     {
         Console.WriteLine("\n4. Method Returning Task");
-        Console.WriteLine("---------------------------------");
 
         int result = await CalculateAsync();
         Console.WriteLine("Result: " + result);

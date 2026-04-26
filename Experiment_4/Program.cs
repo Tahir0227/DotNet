@@ -10,9 +10,7 @@ class Program
 
     static void Main(string[] args)
     {
-        Console.WriteLine("=========================================");
-        Console.WriteLine("        EXP 04 - DELEGATES & LAMBDA");
-        Console.WriteLine("=========================================");
+        Console.WriteLine("---------------------------------");
 
         Activity1();
         Activity2();
@@ -29,7 +27,6 @@ class Program
     static void Activity1()
     {
         Console.WriteLine("\n1. Calculator using Delegates");
-        Console.WriteLine("---------------------------------");
 
         Calc add = Add;
         Calc sub = Sub;
@@ -41,11 +38,9 @@ class Program
     static int Add(int a, int b) => a + b;
     static int Sub(int a, int b) => a - b;
 
-    // ---------------- 2 ----------------
     static void Activity2()
     {
         Console.WriteLine("\n2. Multicast Delegate Example");
-        Console.WriteLine("---------------------------------");
 
         Show s = Method1;
         s += Method2;
@@ -60,7 +55,6 @@ class Program
     static void Activity3()
     {
         Console.WriteLine("\n3. Lambda Expressions");
-        Console.WriteLine("---------------------------------");
 
         Calc add = (a, b) => a + b;
         Calc mul = (a, b) => a * b;
@@ -73,7 +67,6 @@ class Program
     static void Activity4()
     {
         Console.WriteLine("\n4. Sort List using Lambda");
-        Console.WriteLine("---------------------------------");
 
         List<int> numbers = new List<int> { 5, 2, 9, 1 };
 
@@ -89,7 +82,6 @@ class Program
     static void Activity5()
     {
         Console.WriteLine("\n5. Company Example (Delegates & Lambda)");
-        Console.WriteLine("---------------------------------");
 
         List<Employee> list = new List<Employee>()
         {
@@ -110,7 +102,6 @@ class Program
     static void Activity6()
     {
         Console.WriteLine("\n6. LINQ Queries");
-        Console.WriteLine("---------------------------------");
 
         int[] nums = { 1, 2, 3, 4, 5 };
 

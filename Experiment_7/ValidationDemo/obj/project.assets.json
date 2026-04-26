@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tahir\\Downloads\\dotnet EXP\\Experiment_7\\ValidationDemo\\ValidationDemo.csproj",
+      "projectUniqueName": "C:\\Drive E\\study\\SEM_6\\DotNet\\ditnet github repo\\DotNet\\Experiment_7\\ValidationDemo\\ValidationDemo.csproj",
       "projectName": "ValidationDemo",
-      "projectPath": "C:\\Users\\tahir\\Downloads\\dotnet EXP\\Experiment_7\\ValidationDemo\\ValidationDemo.csproj",
+      "projectPath": "C:\\Drive E\\study\\SEM_6\\DotNet\\ditnet github repo\\DotNet\\Experiment_7\\ValidationDemo\\ValidationDemo.csproj",
       "packagesPath": "C:\\Users\\tahir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tahir\\Downloads\\dotnet EXP\\Experiment_7\\ValidationDemo\\obj\\",
+      "outputPath": "C:\\Drive E\\study\\SEM_6\\DotNet\\ditnet github repo\\DotNet\\Experiment_7\\ValidationDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tahir\\AppData\\Roaming\\NuGet\\NuGet.Config",

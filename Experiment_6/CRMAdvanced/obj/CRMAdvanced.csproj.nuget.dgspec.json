@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tahir\\Downloads\\dotnet EXP\\Experiment_6\\CRMAdvanced\\CRMAdvanced.csproj": {}
+    "C:\\Drive E\\study\\SEM_6\\DotNet\\ditnet github repo\\DotNet\\Experiment_6\\CRMAdvanced\\CRMAdvanced.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tahir\\Downloads\\dotnet EXP\\Experiment_6\\CRMAdvanced\\CRMAdvanced.csproj": {
+    "C:\\Drive E\\study\\SEM_6\\DotNet\\ditnet github repo\\DotNet\\Experiment_6\\CRMAdvanced\\CRMAdvanced.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tahir\\Downloads\\dotnet EXP\\Experiment_6\\CRMAdvanced\\CRMAdvanced.csproj",
+        "projectUniqueName": "C:\\Drive E\\study\\SEM_6\\DotNet\\ditnet github repo\\DotNet\\Experiment_6\\CRMAdvanced\\CRMAdvanced.csproj",
         "projectName": "CRMAdvanced",
-        "projectPath": "C:\\Users\\tahir\\Downloads\\dotnet EXP\\Experiment_6\\CRMAdvanced\\CRMAdvanced.csproj",
+        "projectPath": "C:\\Drive E\\study\\SEM_6\\DotNet\\ditnet github repo\\DotNet\\Experiment_6\\CRMAdvanced\\CRMAdvanced.csproj",
         "packagesPath": "C:\\Users\\tahir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tahir\\Downloads\\dotnet EXP\\Experiment_6\\CRMAdvanced\\obj\\",
+        "outputPath": "C:\\Drive E\\study\\SEM_6\\DotNet\\ditnet github repo\\DotNet\\Experiment_6\\CRMAdvanced\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tahir\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -12,3 +12,18 @@ C:\Users\tahir\Downloads\dotnet EXP\Experiment_5\obj\Debug\net10.0\refint\Experi
 C:\Users\tahir\Downloads\dotnet EXP\Experiment_5\obj\Debug\net10.0\Experiment_5.pdb
 C:\Users\tahir\Downloads\dotnet EXP\Experiment_5\obj\Debug\net10.0\Experiment_5.genruntimeconfig.cache
 C:\Users\tahir\Downloads\dotnet EXP\Experiment_5\obj\Debug\net10.0\ref\Experiment_5.dll
+C:\Drive E\study\SEM_6\DotNet\ditnet github repo\DotNet\Experiment_5\bin\Debug\net10.0\Experiment_5.exe
+C:\Drive E\study\SEM_6\DotNet\ditnet github repo\DotNet\Experiment_5\bin\Debug\net10.0\Experiment_5.deps.json
+C:\Drive E\study\SEM_6\DotNet\ditnet github repo\DotNet\Experiment_5\bin\Debug\net10.0\Experiment_5.runtimeconfig.json
+C:\Drive E\study\SEM_6\DotNet\ditnet github repo\DotNet\Experiment_5\bin\Debug\net10.0\Experiment_5.dll
+C:\Drive E\study\SEM_6\DotNet\ditnet github repo\DotNet\Experiment_5\bin\Debug\net10.0\Experiment_5.pdb
+C:\Drive E\study\SEM_6\DotNet\ditnet github repo\DotNet\Experiment_5\obj\Debug\net10.0\Experiment_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Drive E\study\SEM_6\DotNet\ditnet github repo\DotNet\Experiment_5\obj\Debug\net10.0\Experiment_5.AssemblyInfoInputs.cache
+C:\Drive E\study\SEM_6\DotNet\ditnet github repo\DotNet\Experiment_5\obj\Debug\net10.0\Experiment_5.AssemblyInfo.cs
+C:\Drive E\study\SEM_6\DotNet\ditnet github repo\DotNet\Experiment_5\obj\Debug\net10.0\Experiment_5.csproj.CoreCompileInputs.cache
+C:\Drive E\study\SEM_6\DotNet\ditnet github repo\DotNet\Experiment_5\obj\Debug\net10.0\Experiment_5.sourcelink.json
+C:\Drive E\study\SEM_6\DotNet\ditnet github repo\DotNet\Experiment_5\obj\Debug\net10.0\Experiment_5.dll
+C:\Drive E\study\SEM_6\DotNet\ditnet github repo\DotNet\Experiment_5\obj\Debug\net10.0\refint\Experiment_5.dll
+C:\Drive E\study\SEM_6\DotNet\ditnet github repo\DotNet\Experiment_5\obj\Debug\net10.0\Experiment_5.pdb
+C:\Drive E\study\SEM_6\DotNet\ditnet github repo\DotNet\Experiment_5\obj\Debug\net10.0\Experiment_5.genruntimeconfig.cache
+C:\Drive E\study\SEM_6\DotNet\ditnet github repo\DotNet\Experiment_5\obj\Debug\net10.0\ref\Experiment_5.dll
